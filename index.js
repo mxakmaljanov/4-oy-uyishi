@@ -14,7 +14,6 @@
 //else{
 //    console.log(son musbat emas);
 //}
-
 //3-misol
 //let son1=+prompt("1-sonni kiiting");
 //let son2=+prompt("2-sonni kiiting");
@@ -40,4 +39,73 @@
 //else{
 //    console.log(toqson) };
 
-
+//6-masala
+//
+//let a = + prompt ('son');
+//
+//let b = + prompt ('son');
+//
+//let c = + prompt ('son');
+//
+//if(b>a && b<c  b<a && b>c){
+//console.log(true);
+//}else{
+//console.log(false);
+//}
+//
+//
+//7-masala
+//
+//let a = + prompt ('son');
+//
+//let b = + prompt ('son');
+//
+//if(a % 2==1  b % 2 == 1){
+//console.log(true);
+//}else{
+//console.log(false);
+//}
+//
+//
+//8-masala
+//
+//let a = + prompt ('son');
+//
+//let b = + prompt ('son');
+//
+//if(a % 2==1 && b % 2 == 0  a % 2==0 && b % 2 == 1){
+//console.log(true);
+//}else{
+//console.log(false);
+//}
+//
+//
+//9-masala
+//
+//let a = + prompt ('son');
+//
+//let b = + prompt ('son');
+//
+//if ((a % 2 == 1 && b % 2 == 0)  (a % 2 == 0 && b % 2 == 1)){
+//console.log(true);
+//}else{
+//console.log(false);
+//}
+//10-masla
+//let a= +prompt("a sonni kiriting")
+//let b= +prompt("b sonni kiriting")
+//let sum=0
+//let sum1=0
+//if(a%2==1&&b%2==1|| a%2==0||b%2==0 ){
+//sum=a%2==1&&b%2==1
+//sum1
+//    console.log(sum);
+//    console.log(sum1);
+//}11-masala
+//
+//let a= +prompt("sonni kiriting")
+//let b= +prompt("sonni kiriting")
+//let c= +prompt("sonni kiriting")
+//if(a>0&&b>0&&c>0){
+//    console.log("musbat");
+//}
